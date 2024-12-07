@@ -25,3 +25,7 @@
     background-color: hsl(120, 100%, 75%);
     font-weight: bold;
   }
+  button {
+    background-color: black;
+    font-size: 28px;
+  }
