@@ -25,13 +25,13 @@
     background-color: hsl(120, 100%, 75%);
     font-weight: bold;
   }
-  button {
+  #black-button {
     background-color: black;
     color: white;
     font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
   }
-  button {
+  #yellow-button {
     background-color: yellow;
     color: black;
     font-size: 28px;
