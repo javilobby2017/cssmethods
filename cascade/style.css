@@ -3,9 +3,10 @@ body {
   }
   
   .para.small-para {
-    color: hsl(0, 0%, 0%);
-    font-weight: 400;
+    color: hsl(0, 0, 0%);
+    font-weight: bold;
     }
+
   
   .small-para {
     font-size: 14px;
