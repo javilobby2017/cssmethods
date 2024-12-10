@@ -5,15 +5,16 @@ body {
   .para.small-para {
     color: hsl(0, 0, 0%);
     font-weight: bold;
+    font-size: 16px;
     }
-    
-  .confirm {
+
+  #confirm-button {
     background: green;
     color: white;
     font-weight: bold;
   } 
   
-  .button {
+  .cancel-button {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     font-size: 20px;
