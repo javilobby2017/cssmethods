@@ -6,17 +6,7 @@ body {
     color: hsl(0, 0, 0%);
     font-weight: bold;
     }
-
-  
-  .small-para {
-    font-size: 14px;
-    font-weight: 800;
-  }
-  
-  .para {
-    font-size: 22px;
-  }
-  
+    
   .confirm {
     background: green;
     color: white;
